@@ -34,4 +34,7 @@
     <gap:splash gap:density="xhdpi" gap:platform="android" src="res/screen/android/screen-xhdpi-portrait.png" />
     <access origin="http://127.0.0.1*" />
     <gap:platform name="android"/>
+
+    <gap:plugin name="Vibration" value="org.apache.cordova.core.Vibration" />
+
 </widget>
