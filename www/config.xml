@@ -35,6 +35,5 @@
     <access origin="http://127.0.0.1*" />
     <gap:platform name="android"/>
 
-    <gap:plugin name="Vibration" value="org.apache.cordova.core.Vibration" />
 
 </widget>
